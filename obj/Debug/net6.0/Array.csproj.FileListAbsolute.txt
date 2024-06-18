@@ -1,0 +1,14 @@
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\bin\Debug\net6.0\Array.exe
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\bin\Debug\net6.0\Array.deps.json
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\bin\Debug\net6.0\Array.dll
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\bin\Debug\net6.0\Array.pdb
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.dll
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\refint\Array.dll
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.pdb
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+D:\Faculdade2\Visual Studio\Faculdade\Projetos_Próprios\Array-Simples\Array\obj\Debug\net6.0\ref\Array.dll
